@@ -1,4 +1,4 @@
-import 'package:ball_shuffling_project/ball-shuffling-project.dart';
+import 'ball-shuffling-project.dart';
 import 'package:flutter/material.dart';
 
 void main() {
